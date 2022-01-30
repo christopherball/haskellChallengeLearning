@@ -3,12 +3,12 @@ This repository serves as a personal playground for learning Haskell functional 
 
                        Input
                        Params   Output
-            Typeclass   /  \    Param  
-               /\      /    \    /  \
-       (==) :: Eq a => a -> a -> Bool
-       \  /  |\    /       \ /       |
-        \/   | \  /        Type      |
-       Func  | Class     Variable    |
+            Typeclass   /‾‾\    Param  
+               /\      /    \    /‾‾\
+     **(==) :: Eq a => a -> a -> Bool**
+       \  /  |\   /        \_/       |
+        \/   | \_/         Type      |
+     Function| Class     Variable    |
        Name  |Constraint             |
              \_______________________/
                          |      
