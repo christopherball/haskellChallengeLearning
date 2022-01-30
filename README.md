@@ -17,3 +17,8 @@ This repository serves as a personal playground for learning Haskell functional 
     Read: “The equality function takes any two values that are 
     of the same type and returns a Bool. The type of those two 
     values must be a member of the Eq typeclass.”
+
+****Useful Commands*
+
+To install library packages from hackage.haskell.org, use:
+cabal install --lib packageName
