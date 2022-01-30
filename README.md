@@ -5,7 +5,7 @@ This repository serves as a personal playground for learning Haskell functional 
                        Params   Output
             Typeclass   /‾‾\    Param  
                /\      /    \    /‾‾\
-     **(==) :: Eq a => a -> a -> Bool**
+       (==) :: Eq a => a -> a -> Bool
        \  /  |\   /        \_/       |
         \/   | \_/         Type      |
      Function| Class     Variable    |
