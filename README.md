@@ -20,5 +20,11 @@ This repository serves as a personal playground for learning Haskell functional 
 
 **Useful Commands**
 
+To search for library packages from hackage.haskell.org, use:
+```cabal list packageSearchTerm```
+
 To install library packages from hackage.haskell.org, use:  
-cabal install --lib packageName
+```cabal install --lib packageName```
+
+Libraries are installed in the following location:
+```~/.cabal/packages/hackage.haskell.org```
