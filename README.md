@@ -29,6 +29,6 @@ To install library packages from hackage.haskell.org, use:
 Libraries are installed in the following location:  
 ```~/.cabal/packages/hackage.haskell.org```
 
-**Haskell Base Typeclasses**
+**Haskell Base Typeclasses**  
 ![image info](./baseTypeClasses.svg)
 
