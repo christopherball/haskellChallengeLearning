@@ -30,5 +30,6 @@ Libraries are installed in the following location:
 ```~/.cabal/packages/hackage.haskell.org```
 
 **Haskell Base Typeclasses**  
+
 ![image info](./baseTypeClasses.svg)
 
